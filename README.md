@@ -1,4 +1,4 @@
-# 🛡️ Guardians of the Ancient Kingdom
+# Guardians of the Ancient Kingdom
 
 ## 1. Descripción
 **Guardians of the Ancient Kingdom** es un sistema de combate por turnos desarrollado en Python. El proyecto resuelve el desafío de administrar reglas de negocio estrictas (cálculos de daño únicos por clase, validaciones de atributos, control de rondas) aplicando los pilares fundamentales de la Programación Orientada a Objetos (POO). El resultado es un código modular, fácilmente escalable y resistente a datos corruptos.
@@ -61,7 +61,7 @@ Al ejecutar `main.py`, el sistema arroja los resultados de 12 validaciones estri
 
 ---
 
-## 🏆 Retos Adicionales Completados
+## Retos Adicionales Completados
 
 ### Reto 1: Diagrama de Clases UML
 El siguiente esquema representa la arquitectura del sistema. `Personaje` es la clase base con el método abstracto `atacar()`, del cual derivan las tres subclases. A la derecha, `Combate` actúa como administrador externo.
